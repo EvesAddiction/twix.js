@@ -5,6 +5,6 @@
   "main": "./bin/twix.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EvesAddiction/twix.js.git"
+    "url": "git://github.com/EvesAddiction/twix.js.git"
   }
 }
